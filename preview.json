@@ -2,30 +2,38 @@
   "product": "TRADDOMIUM — Chapter One Test Preview",
   "sourceRepository": "CAPFlyingFun/TRADDOMIUM-Micro-Battle",
   "sourceBranch": "prototype-integration",
-  "sourceCommit": "1807e261e7345ef7aa33637c9e76bc1da35deee2",
+  "sourceCommit": "c5e7c51eb2255043a7ed24d400a1152973b92637",
   "canonicalStoryCommit": "dfe810e670a42867b014dae4a206df5d80350414",
-  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/1807e261e7345ef7aa33637c9e76bc1da35deee2/prototype/public/",
+  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/c5e7c51eb2255043a7ed24d400a1152973b92637/prototype/public/",
+  "startup": {
+    "assets": 206,
+    "bytes": 16289594
+  },
   "publicationScope": "Separate preview repository only. Source main, backup, existing Pages site and PR #9 remain unchanged.",
   "files": {
-    "assets/LabPrototype-6FXO_CuH.js": {
-      "bytes": 37756,
-      "sha256": "ed96c0c8b79b2439cfa946c8fa6b8bd7bf3ce50924bdefdb8549607ea1238199"
+    "assets/LabPrototype-BWwnKkN3.js": {
+      "bytes": 65664,
+      "sha256": "d7e1c8376c16b1e418b7c2630c5dc75377b5519f9b92320ede35d1629e8ad273"
     },
-    "assets/index-B3zJnfyF.js": {
-      "bytes": 429736,
-      "sha256": "cf2a5db15a7f46d6d09b0f56b12c710eefe18efc6b7a520a04f205fcc3be6784"
+    "assets/LabPrototype-CAwZunBw.css": {
+      "bytes": 1402,
+      "sha256": "461ebfb7c435142f6705268646ce2e223e29232295cdf66222ee6ed3cc5d1a69"
     },
-    "assets/index-BL-Nbmpr.css": {
-      "bytes": 95406,
-      "sha256": "afb631d417cbfa8c06b8bc55412f82fa6d70b5a552436c562f56269a06094de5"
+    "assets/index-C0oXCph7.css": {
+      "bytes": 95503,
+      "sha256": "f82bb81192a1ce6570f729d9d62fcf3fea4aff296b0bea4c049441c97ddaf323"
     },
-    "assets/lab-renderer-FVpOzztn.js": {
+    "assets/index-DTESCWPq.js": {
+      "bytes": 430174,
+      "sha256": "c6cce14b20bad908ef21ca80da593d86781b8a47a8819df35bec34f692b7d3db"
+    },
+    "assets/lab-renderer-DVL4yjKZ.js": {
       "bytes": 675627,
-      "sha256": "1f06a135c0bed833c474dfc556f36455e2265f3bb09266a28e26ee12ccae3e14"
+      "sha256": "d2e5a4b345c24554ff6442458ca1eae85c124d7e960e83bfcde21a1c6163cd45"
     },
     "index.html": {
       "bytes": 872,
-      "sha256": "e230671e1ae6a7891f84c8ee37088e0f5d32818fc1baeb7b85fba21f71f690dc"
+      "sha256": "4c4c214a5b88bb939eacc994620e6c1b075216528108db74e4a92c956d62539a"
     }
   }
 }
