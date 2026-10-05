@@ -1,28 +1,28 @@
-# TRADDOMIUM Chapter One test preview
+# TRADDOMIUM Chapter One hybrid preview
 
-Separate GitHub Pages browser test build of candidate **edd12b392f74e23ccc4fd18487e83a362b82e07f**.
-Source: https://github.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/tree/edd12b392f74e23ccc4fd18487e83a362b82e07f/prototype
+Separate GitHub Pages build of source **94bdd5b068c69e1ad2b4411ab8a64c00e6fc23d5**.
+Source: https://github.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/tree/94bdd5b068c69e1ad2b4411ab8a64c00e6fc23d5/prototype
 
-The existing game repository's main, Main-Backup, Pages site, legacy build and
-unmerged PR are not changed. This is not a promotion of the candidate.
+Production main, Main-Backup, the island/legacy build and PR #9 remain unchanged.
+Original models, artwork and recorded audio load from the pinned source commit.
+No asset binaries are duplicated here.
 
-The browser bundle is served here. Original models, artwork and recorded audio
-are fetched from the pinned public candidate commit, not a moving branch.
-Asset/model provenance remains in the source repository's prototype/docs/.
+New Game opens the canonical date/island/cloud descent and then the 3D laboratory.
+Scripted dialogue and character staging alternate with exploration intervals.
+Select Jack or Sarah (once she arrives). Desktop: WASD/arrows, C to switch.
+Portrait: tap clear floor to move. Touch landscape also has a held-direction pad.
+Objective buttons walk the selected character to the target before interacting.
+Characters return to their scripted positions before dialogue resumes.
+Auto shot restores cinematic direction after manual camera orbit/pan/zoom.
+Pause preserves exploration positions and clears held movement.
+Laboratory progress remains session-only; Continue is disabled.
 
-Use New Game for Chapter One. Its byte loader downloads 206
-assets (16289594 bytes; 16.3MB),
-then shows the canonical Story date/island/cloud descent before entering the lab.
-Narration and character staging are automated; camera and console actions are
-manual. Playback reuses downloaded assets in this tab without a second transfer.
-Laboratory progress is session-only. Continue is disabled. This is camera/object
-control, not free player walking.
+Validation: 29 focused tests, typecheck, production build, rig decoding and all
+206 startup asset hashes (16,289,594 bytes). Actual WebGL browser checks cover the
+opening, keyboard movement, pause/resume, terminal objectives, intercom, Sarah's
+arrival/selection, and portrait/landscape controls. Physical iPhone review remains
+necessary. Navigation handles static furniture; it is not crowd simulation.
 
-Source checks: typecheck/build, 21 focused tests, original-model rig tests and 206
-asset hashes pass. Browser checks cover the byte loader, automatic date/island,
-portrait/landscape, pause/resume and lab handoff/title recovery. The runner has
-WebGL disabled; the updated hosted build still needs iPhone review before promotion.
-
-Rebuild recipe: use the source's Vite config at the pinned commit, base './',
-define import.meta.env.BASE_URL as the assetBase from preview.json, and set
-publicDir false. This leaves runtime logic unchanged while isolating hosting.
+Rebuild in source prototype/: PREVIEW_SOURCE_SHA=94bdd5b068c69e1ad2b4411ab8a64c00e6fc23d5 node scripts/build-preview.mjs
+Copy dist-preview here. Asset inventory/provenance and implementation notes are
+in prototype/docs/ in the source repository.

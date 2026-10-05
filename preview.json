@@ -1,39 +1,39 @@
 {
-  "product": "TRADDOMIUM — Chapter One Test Preview",
+  "product": "TRADDOMIUM \u2014 Chapter One Test Preview",
   "sourceRepository": "CAPFlyingFun/TRADDOMIUM-Micro-Battle",
   "sourceBranch": "prototype-integration",
-  "sourceCommit": "edd12b392f74e23ccc4fd18487e83a362b82e07f",
+  "sourceCommit": "94bdd5b068c69e1ad2b4411ab8a64c00e6fc23d5",
   "canonicalStoryCommit": "dfe810e670a42867b014dae4a206df5d80350414",
-  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/edd12b392f74e23ccc4fd18487e83a362b82e07f/prototype/public/",
+  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/94bdd5b068c69e1ad2b4411ab8a64c00e6fc23d5/prototype/public/",
   "startup": {
     "assets": 206,
     "bytes": 16289594
   },
   "publicationScope": "Separate preview repository only. Source main, backup, existing Pages site and PR #9 remain unchanged.",
   "files": {
-    "assets/LabPrototype-C9Ci06Oi.js": {
-      "bytes": 65640,
-      "sha256": "3261d39b8e886ac10ed087e26ca81cb94645144cc4a2317a82287f320fc79715"
-    },
     "assets/LabPrototype-CAwZunBw.css": {
       "bytes": 1402,
       "sha256": "461ebfb7c435142f6705268646ce2e223e29232295cdf66222ee6ed3cc5d1a69"
     },
-    "assets/index-BiWDoIxw.js": {
+    "assets/LabPrototype-Nm7MeFvg.js": {
+      "bytes": 67672,
+      "sha256": "c778a71742d39b0d9f0564397ad22b6f9da50c7888f4629b623567573b0156e0"
+    },
+    "assets/index-D8kRj6Ox.css": {
+      "bytes": 98327,
+      "sha256": "7a14da1b0113df5f7de25c2857074023c4a1aeccd069aa3317213609f0d66192"
+    },
+    "assets/index-pHnuOgI5.js": {
       "bytes": 430204,
-      "sha256": "565b26dd0087d43a0f56621cdbb1468571596e0eab41d911c2b4fd91345e0eba"
+      "sha256": "d24392ba92e7f14b0ccee51c144993e2b3abb6a8e7aaa8c14fac923ca5dcbe53"
     },
-    "assets/index-C0oXCph7.css": {
-      "bytes": 95503,
-      "sha256": "f82bb81192a1ce6570f729d9d62fcf3fea4aff296b0bea4c049441c97ddaf323"
-    },
-    "assets/lab-renderer-AeSBqiaR.js": {
-      "bytes": 675627,
-      "sha256": "540a196cbebea51db6eae9695766839d5ad5bbff732335781d181379579cd5dc"
+    "assets/lab-renderer-C24Ozp6P.js": {
+      "bytes": 685027,
+      "sha256": "8bdbf9195561659d5aef979a706df5e88287e25029dbf7c2d70c84ab236eb5ed"
     },
     "index.html": {
       "bytes": 872,
-      "sha256": "2e8b6b0f5d46e6ee6c504ffe645bbad71a85f2819d4e224d28fdc6b38fc61808"
+      "sha256": "a3f45d599cbd16fac2ded35f696431a412a151a5ef26330391a911865e0704a2"
     }
   }
 }
