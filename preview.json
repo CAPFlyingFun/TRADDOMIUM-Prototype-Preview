@@ -1,0 +1,31 @@
+{
+  "product": "TRADDOMIUM — Chapter One Test Preview",
+  "sourceRepository": "CAPFlyingFun/TRADDOMIUM-Micro-Battle",
+  "sourceBranch": "prototype-integration",
+  "sourceCommit": "1807e261e7345ef7aa33637c9e76bc1da35deee2",
+  "canonicalStoryCommit": "dfe810e670a42867b014dae4a206df5d80350414",
+  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/1807e261e7345ef7aa33637c9e76bc1da35deee2/prototype/public/",
+  "publicationScope": "Separate preview repository only. Source main, backup, existing Pages site and PR #9 remain unchanged.",
+  "files": {
+    "assets/LabPrototype-6FXO_CuH.js": {
+      "bytes": 37756,
+      "sha256": "ed96c0c8b79b2439cfa946c8fa6b8bd7bf3ce50924bdefdb8549607ea1238199"
+    },
+    "assets/index-B3zJnfyF.js": {
+      "bytes": 429736,
+      "sha256": "cf2a5db15a7f46d6d09b0f56b12c710eefe18efc6b7a520a04f205fcc3be6784"
+    },
+    "assets/index-BL-Nbmpr.css": {
+      "bytes": 95406,
+      "sha256": "afb631d417cbfa8c06b8bc55412f82fa6d70b5a552436c562f56269a06094de5"
+    },
+    "assets/lab-renderer-FVpOzztn.js": {
+      "bytes": 675627,
+      "sha256": "1f06a135c0bed833c474dfc556f36455e2265f3bb09266a28e26ee12ccae3e14"
+    },
+    "index.html": {
+      "bytes": 872,
+      "sha256": "e230671e1ae6a7891f84c8ee37088e0f5d32818fc1baeb7b85fba21f71f690dc"
+    }
+  }
+}
