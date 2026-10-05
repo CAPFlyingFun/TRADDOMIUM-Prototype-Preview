@@ -1,7 +1,7 @@
 # TRADDOMIUM Chapter One test preview
 
-Separate GitHub Pages browser test build of candidate **c5e7c51eb2255043a7ed24d400a1152973b92637**.
-Source: https://github.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/tree/c5e7c51eb2255043a7ed24d400a1152973b92637/prototype
+Separate GitHub Pages browser test build of candidate **edd12b392f74e23ccc4fd18487e83a362b82e07f**.
+Source: https://github.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/tree/edd12b392f74e23ccc4fd18487e83a362b82e07f/prototype
 
 The existing game repository's main, Main-Backup, Pages site, legacy build and
 unmerged PR are not changed. This is not a promotion of the candidate.

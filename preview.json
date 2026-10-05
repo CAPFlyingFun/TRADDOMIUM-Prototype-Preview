@@ -2,38 +2,38 @@
   "product": "TRADDOMIUM — Chapter One Test Preview",
   "sourceRepository": "CAPFlyingFun/TRADDOMIUM-Micro-Battle",
   "sourceBranch": "prototype-integration",
-  "sourceCommit": "c5e7c51eb2255043a7ed24d400a1152973b92637",
+  "sourceCommit": "edd12b392f74e23ccc4fd18487e83a362b82e07f",
   "canonicalStoryCommit": "dfe810e670a42867b014dae4a206df5d80350414",
-  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/c5e7c51eb2255043a7ed24d400a1152973b92637/prototype/public/",
+  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/edd12b392f74e23ccc4fd18487e83a362b82e07f/prototype/public/",
   "startup": {
     "assets": 206,
     "bytes": 16289594
   },
   "publicationScope": "Separate preview repository only. Source main, backup, existing Pages site and PR #9 remain unchanged.",
   "files": {
-    "assets/LabPrototype-BWwnKkN3.js": {
-      "bytes": 65664,
-      "sha256": "d7e1c8376c16b1e418b7c2630c5dc75377b5519f9b92320ede35d1629e8ad273"
+    "assets/LabPrototype-C9Ci06Oi.js": {
+      "bytes": 65640,
+      "sha256": "3261d39b8e886ac10ed087e26ca81cb94645144cc4a2317a82287f320fc79715"
     },
     "assets/LabPrototype-CAwZunBw.css": {
       "bytes": 1402,
       "sha256": "461ebfb7c435142f6705268646ce2e223e29232295cdf66222ee6ed3cc5d1a69"
     },
+    "assets/index-BiWDoIxw.js": {
+      "bytes": 430204,
+      "sha256": "565b26dd0087d43a0f56621cdbb1468571596e0eab41d911c2b4fd91345e0eba"
+    },
     "assets/index-C0oXCph7.css": {
       "bytes": 95503,
       "sha256": "f82bb81192a1ce6570f729d9d62fcf3fea4aff296b0bea4c049441c97ddaf323"
     },
-    "assets/index-DTESCWPq.js": {
-      "bytes": 430174,
-      "sha256": "c6cce14b20bad908ef21ca80da593d86781b8a47a8819df35bec34f692b7d3db"
-    },
-    "assets/lab-renderer-DVL4yjKZ.js": {
+    "assets/lab-renderer-AeSBqiaR.js": {
       "bytes": 675627,
-      "sha256": "d2e5a4b345c24554ff6442458ca1eae85c124d7e960e83bfcde21a1c6163cd45"
+      "sha256": "540a196cbebea51db6eae9695766839d5ad5bbff732335781d181379579cd5dc"
     },
     "index.html": {
       "bytes": 872,
-      "sha256": "4c4c214a5b88bb939eacc994620e6c1b075216528108db74e4a92c956d62539a"
+      "sha256": "2e8b6b0f5d46e6ee6c504ffe645bbad71a85f2819d4e224d28fdc6b38fc61808"
     }
   }
 }
