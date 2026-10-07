@@ -1,7 +1,7 @@
 # TRADDOMIUM Chapter One hybrid preview
 
-Separate GitHub Pages build of source **3c84509d128d78501204ea0e59b77067b5af3d37**.
-Source: https://github.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/tree/3c84509d128d78501204ea0e59b77067b5af3d37/prototype
+Separate GitHub Pages build of source **153b78fafb638f958e5f01a2c52884078289b68c**.
+Source: https://github.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/tree/153b78fafb638f958e5f01a2c52884078289b68c/prototype
 
 Production main, Main-Backup, the island/legacy build and PR #9 remain unchanged.
 Original models, artwork and recorded audio load from the pinned source commit.
@@ -22,11 +22,11 @@ keeps its shape seated, she sits in a pregnancy-aware posture, and she no longer
 sleeps unscripted (PR #10). Sarah's fingers are rigged.
 
 Validation: 42 focused tests, typecheck, production build, rig decoding and all
-216 startup asset hashes (17,029,641 bytes). Actual WebGL browser checks cover the
+216 startup asset hashes (17,032,777 bytes). Actual WebGL browser checks cover the
 opening, keyboard movement, pause/resume, terminal objectives, intercom, Sarah's
 arrival/selection, and portrait/landscape controls. Physical iPhone review remains
 necessary. Navigation handles static furniture; it is not crowd simulation.
 
-Rebuild in source prototype/: PREVIEW_SOURCE_SHA=3c84509d128d78501204ea0e59b77067b5af3d37 node scripts/build-preview.mjs
+Rebuild in source prototype/: PREVIEW_SOURCE_SHA=153b78fafb638f958e5f01a2c52884078289b68c node scripts/build-preview.mjs
 Copy dist-preview here. Asset inventory/provenance and implementation notes are
 in prototype/docs/ in the source repository.

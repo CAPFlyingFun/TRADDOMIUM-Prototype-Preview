@@ -2,12 +2,12 @@
   "product": "TRADDOMIUM \u2014 Chapter One Test Preview",
   "sourceRepository": "CAPFlyingFun/TRADDOMIUM-Micro-Battle",
   "sourceBranch": "main",
-  "sourceCommit": "3c84509d128d78501204ea0e59b77067b5af3d37",
+  "sourceCommit": "153b78fafb638f958e5f01a2c52884078289b68c",
   "canonicalStoryCommit": "dfe810e670a42867b014dae4a206df5d80350414",
-  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/3c84509d128d78501204ea0e59b77067b5af3d37/prototype/public/",
+  "assetBase": "https://raw.githubusercontent.com/CAPFlyingFun/TRADDOMIUM-Micro-Battle/153b78fafb638f958e5f01a2c52884078289b68c/prototype/public/",
   "startup": {
     "assets": 216,
-    "bytes": 17029641
+    "bytes": 17032777
   },
   "publicationScope": "Separate preview repository only. Source main, backup, existing Pages site and PR #9 remain unchanged.",
   "files": {
@@ -15,29 +15,29 @@
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "assets/LabPrototype-B_P_kiuG.js": {
-      "bytes": 69335,
-      "sha256": "a96ff66d9be450f80bf7f48f52da3edc215471ec75d32534f02903db17472963"
-    },
     "assets/LabPrototype-CAwZunBw.css": {
       "bytes": 1402,
       "sha256": "461ebfb7c435142f6705268646ce2e223e29232295cdf66222ee6ed3cc5d1a69"
+    },
+    "assets/LabPrototype-DMfvSAnt.js": {
+      "bytes": 69335,
+      "sha256": "37c8460312472b7c9dcdb5ef289a3e180f39204feac1e1947fe4d74a118cba72"
     },
     "assets/index-B9mbw7MH.css": {
       "bytes": 105635,
       "sha256": "fa4b6013a3b0906af4bbdc3b53bc1cc98ba4b987b419a8a89874993f6d2415be"
     },
-    "assets/index-Bb1EVDIk.js": {
+    "assets/index-Brj5h0Aa.js": {
       "bytes": 433414,
-      "sha256": "132699b49bf41e5f15dfdb65794bfc338dbaf9de5c57c3e4d899205aa7ce9ef7"
+      "sha256": "3fe6996bc359bad374d4f94253112d9120d2b0d2197c8ee08795e0b56aaae14f"
     },
-    "assets/lab-renderer-Bsj1X-gm.js": {
+    "assets/lab-renderer-DUSIZSPD.js": {
       "bytes": 717701,
-      "sha256": "0b77033e9798d872ce7a0f3f13a98867bdac726beb29fba7543d2bab06818108"
+      "sha256": "f1a0dbc490b6e3f15e1645bf46120f1149c3928794caf021bfca2cbce5cce1be"
     },
     "index.html": {
       "bytes": 1184,
-      "sha256": "9f3240948e697340db560ee9ec2b939eec96a8096cb2917bcac05f4242c8ae33"
+      "sha256": "4fbf43d669bfe8f0eba0fdfeb2b3c38d2b8d724ecfd866b4654417e444bcb822"
     }
   }
 }
