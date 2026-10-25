@@ -30,3 +30,9 @@ necessary. Navigation handles static furniture; it is not crowd simulation.
 Rebuild in source prototype/: PREVIEW_SOURCE_SHA=153b78fafb638f958e5f01a2c52884078289b68c node scripts/build-preview.mjs
 Copy dist-preview here. Asset inventory/provenance and implementation notes are
 in prototype/docs/ in the source repository.
+
+2026-10-25: the menu's "Island & advanced systems" and "Legacy game" buttons open `./island/`
+and `./legacy/`, which exist on the main TRADDOMIUM site but never existed here, so both
+returned 404. `island/index.html` and `legacy/index.html` now forward to the main site's
+`/island/` and `/legacy/`, keeping the query (so `island/?open=CharacterRoom` opens the
+Sarah Lab). The Chapter One build itself is unchanged.

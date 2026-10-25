@@ -38,6 +38,18 @@
     "index.html": {
       "bytes": 1184,
       "sha256": "4fbf43d669bfe8f0eba0fdfeb2b3c38d2b8d724ecfd866b4654417e444bcb822"
+    },
+    "island/index.html": {
+      "bytes": 1037,
+      "sha256": "9a7ebfda0554cf41b8625381ebff16fe396a2ffff3bb15c7f6cf257ecfd79f5f"
+    },
+    "legacy/index.html": {
+      "bytes": 1019,
+      "sha256": "64f12ae89030cf91dd70529519149733abdfcbae9f84fa34c946856685cb67a4"
     }
+  },
+  "links": {
+    "island/": "https://capflyingfun.github.io/TRADDOMIUM-Micro-Battle/island/",
+    "legacy/": "https://capflyingfun.github.io/TRADDOMIUM-Micro-Battle/legacy/"
   }
 }
